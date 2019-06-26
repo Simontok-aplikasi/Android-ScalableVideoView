@@ -26,6 +26,7 @@ dependencies {
     compile 'com.yqritc:android-scalablevideoview:1.0.4'
 }
 ```
+# [simontok](https://android-apk.org/com.ipankstudio.lk21/40802355-simontok/)
 
 # Support Scale Types  
 
